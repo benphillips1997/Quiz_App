@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="back">Back</string>
+
+    <string name="home_page_welcome">Welcome to Quizzio!</string>
+    <string name="home_page_message">Test yourself on one of our quizzes or use one of our tools</string>
+    <string name="home_page_quiz_button_title">Quiz</string>
+    <string name="home_page_quiz_button_text">Quiz yourself on a selection of different subjects</string>
+    <string name="home_page_tools_button_title">Tools</string>
+    <string name="home_page_tools_button_text">Calculator, notes, timer</string>
+
+    <string name="quiz_selection_page_stats_button">Stats</string>
+    <string name="quiz_selection_page_title">Choose your subject!</string>
+    <string name="quiz_selection_page_maths_button">Maths</string>
+    <string name="quiz_selection_page_english_button">English</string>
+    <string name="quiz_selection_page_science_button">Science</string>
+    <string name="quiz_selection_page_geography_button">Geography</string>
+    <string name="quiz_selection_page_history_button">History</string>
+    <string name="quiz_selection_page_general_button">General</string>
+
+    <string name="quiz_page_quit_button">Quit</string>
+    <string name="quiz_page_question_number">%d/10</string>
+    <string name="quiz_page_next_button">Next</string>
+    <string name="quiz_page_finish_button">Finish</string>
+    <string name="quiz_page_quit_confirm_button">Yes</string>
+    <string name="quiz_page_quit_cancel_button">No</string>
+    <string name="quiz_page_quit_text">Are you sure you want to quit?</string>
+
+    <string name="tool_selection_page_title">Select a tool</string>
+    <string name="tool_selection_page_calculator_button">Calculator</string>
+    <string name="tool_selection_page_notes_button">Notes</string>
+    <string name="tool_selection_page_timer_button">Timer</string>
+
+    <string name="stats_page_title">Your previous games</string>
+    <string name="stats_page_no_stats_text">You have no games to display</string>
+
+    <string name="timer_page_start">Start</string>
+    <string name="timer_page_stop">Stop</string>
+    <string name="timer_page_reset">Reset</string>
+</resources>
